@@ -1,22 +1,22 @@
-### Hi everyone! With me, success is in your hands 👋
+### Hi everyone! 👋
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
 </p>
 
-<h2 align="center">Who is Superbluestar🥇?</h2>
+<h2 align="center">Who is websky112?</h2>
 <p>
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
+Passionate Full-stack Developer specialized in React and React Native, with a keen interest in web and mobile application development. Always eager to learn and love to help others.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=websky112&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=websky112&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="websky112's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=websky112&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
