@@ -20,11 +20,10 @@ Passionate Full-stack Developer specialized in React and React Native, with a ke
 </p>
 
 ### Skills
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
+- 🌱 Frontend : React, React Native, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Flutter, Ionic
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
-- 📫 Interesting : OpenCV, DL and AI
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
